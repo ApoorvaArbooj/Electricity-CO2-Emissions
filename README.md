@@ -10,3 +10,6 @@
 *   Schedule 4 - fossil fuel stocks
 *   Schedules 6 & 7 - non-utility source and disposition of electricity
 *   Schedules 8A-F - environmental data
+
+<br><h3><strong>Annual Carbon Intensity in MtCO2/MWh by State</strong></h3><br>
+<img src="https://github.com/ApoorvaArbooj/Electricity-CO2-Emissions/blob/main/chart_snippet.PNG"></img>
